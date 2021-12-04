@@ -1,7 +1,7 @@
 # Личный проект «Пинк» 
 
 * Студент: [Азамат Намиялы](https://up.htmlacademy.ru/adaptive/24/user/1965437).
-* Наставник: `Неизвестно`.
+* Наставник: [Anna Varaksina](https://htmlacademy.ru/profile/id153610).
 
 ---
 
